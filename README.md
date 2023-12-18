@@ -10,4 +10,4 @@ Run weighted_average.ipynb file can derive the result of combining three single 
 
 Run intermediate_fusion.ipynb can derive the result of XGBoost, Random Forest, and L2-LR model with intermediate fusion.
 
-Data and single model result location: 
+Data and single model result location: https://drive.google.com/drive/folders/1MOafwTvQwq0uwDy3mUBI4amCuVJqgzpF?usp=drive_link
